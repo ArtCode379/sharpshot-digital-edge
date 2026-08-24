@@ -1,0 +1,17 @@
+{
+  "phase": "scaffold_cloned",
+  "updated_at": "2026-08-24T05:19:23.136195+00:00",
+  "slug": "sharpshot-digital-edge",
+  "type": "service",
+  "package": "sharpshotgroup.technology.sharpshotdigitaledge",
+  "prefix": "KGMXD",
+  "app_name": "Sharpshot Digital Edge",
+  "task_gid": "1217580748339437",
+  "task_name": "GB GW4 C1511",
+  "asana_url": "https://app.asana.com/1/1208304498069546/project/1213586227413017/task/1217580748339437",
+  "domain": "https://sharpshotgroup.surf",
+  "company": "SHARPSHOT GROUP LTD",
+  "repo_url": "https://github.com/ArtCode379/sharpshot-digital-edge",
+  "quality_status": "not_run",
+  "build_status": "not_run"
+}
