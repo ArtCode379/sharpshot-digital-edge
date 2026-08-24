@@ -2,10 +2,15 @@ package sharpshotgroup.technology.sharpshotdigitaledge.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
-
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val SharpBlue = Color(0xFF1565C0)
+val SharpBlueDark = Color(0xFF0A3D7A)
+val DigitalCyan = Color(0xFF00ACC1)
+val CloudBackground = Color(0xFFF5F8FC)
+val CloudSurface = Color(0xFFFFFFFF)
+val Ink = Color(0xFF17212B)
+val Muted = Color(0xFF607181)
+val Border = Color(0xFFD8E2EC)
+val Success = Color(0xFF23845D)
+val Warning = Color(0xFFE58A18)
+val ChipBackground = Color(0xFFE1F3F7)
+val ChipContent = Color(0xFF006978)
